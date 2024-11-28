@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-family: "Merriweather", serif;
+    font-style: normal;
+}
